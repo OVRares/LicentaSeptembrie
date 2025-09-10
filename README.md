@@ -3,16 +3,17 @@
 Website medical pentru eficientizarea programărilor
 
 ## Repository
+
 <https://github.com/OVRares/LicentaMed>
 
 ## Necesități
 
-- Node.js (v18 recomandat)  
+- Node.js (v18 recomandat)
 - npm (la pachet cu Node)
 
 ## Setup
 
-git clone https://github.com/OVRares/LicentaMed.git
+git clone https://github.com/OVRares/LicentaSeptembrie.git
 cd LicentaMed
 npm install
 
