@@ -4,7 +4,7 @@ Website medical pentru eficientizarea programărilor
 
 ## Repository
 
-<https://github.com/OVRares/LicentaMed>
+<https://github.com/OVRares/LicentaSeptembrie>
 
 ## Necesități
 
@@ -14,7 +14,7 @@ Website medical pentru eficientizarea programărilor
 ## Setup
 
 - git clone https://github.com/OVRares/LicentaSeptembrie.git
-- cd LicentaMed
+- cd LicentaSeptembrie
 - npm install
 
 ## Comenzi
