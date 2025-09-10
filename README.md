@@ -13,13 +13,13 @@ Website medical pentru eficientizarea programărilor
 
 ## Setup
 
-git clone https://github.com/OVRares/LicentaSeptembrie.git
-cd LicentaMed
-npm install
+- git clone https://github.com/OVRares/LicentaSeptembrie.git
+- cd LicentaMed
+- npm install
 
 ## Comenzi
 
-Pornire Doar Fronted:
+Pornire Doar Frontend:
 npm run dev
 
 Pornire Doar Backend:
